@@ -18,4 +18,7 @@ This repository contains my solution codes to all exercises, tasks, and projects
 | Evaluasi Performa | soon | soon |
 | Deep Learning 1 | soon | soon |
 | Deep Learning 2 | soon | soon |
+| Case Study Data Science Regresi | soon | soon |
+| Case Study Data Science Using Excel | soon | soon |
 | Machine Learning & Deep Learning for Image Research | soon | soon |
+| Data Science with Orange | soon | soon |
