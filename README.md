@@ -1,6 +1,6 @@
 # BISA AI - Masterclass On Job Training Data Science Intensive Program
 
-This repository contains my solution codes to all exercises, tasks, and projects in Masterclass On Job Training Data Science Intensive Program by BISA AI.
+This repository contains my solution codes to all exercises, tasks, and projects of Masterclass On Job Training Data Science Intensive Program by BISA AI.
 
 <br>
 
